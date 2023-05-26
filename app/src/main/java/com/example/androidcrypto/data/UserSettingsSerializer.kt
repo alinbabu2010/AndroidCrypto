@@ -1,7 +1,7 @@
 package com.example.androidcrypto.data
 
 import androidx.datastore.core.Serializer
-import com.example.androidcrypto.CryptoManager
+import com.example.androidcrypto.utils.CryptoManager
 import kotlinx.serialization.SerializationException
 import kotlinx.serialization.json.Json
 import java.io.InputStream

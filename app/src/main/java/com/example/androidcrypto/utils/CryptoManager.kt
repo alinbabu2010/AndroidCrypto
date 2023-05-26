@@ -1,4 +1,4 @@
-package com.example.androidcrypto
+package com.example.androidcrypto.utils
 
 import android.security.keystore.KeyGenParameterSpec
 import android.security.keystore.KeyProperties

@@ -24,10 +24,10 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.datastore.dataStore
-import com.example.androidcrypto.CryptoManager
 import com.example.androidcrypto.R
 import com.example.androidcrypto.data.UserSettings
 import com.example.androidcrypto.data.UserSettingsSerializer
+import com.example.androidcrypto.utils.CryptoManager
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 

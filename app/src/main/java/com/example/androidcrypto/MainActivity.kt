@@ -25,6 +25,7 @@ import androidx.compose.ui.unit.dp
 import com.example.androidcrypto.components.EncryptDecryptView
 import com.example.androidcrypto.components.UserSettingView
 import com.example.androidcrypto.ui.theme.AndroidCryptoTheme
+import com.example.androidcrypto.utils.CryptoManager
 
 class MainActivity : ComponentActivity() {
 

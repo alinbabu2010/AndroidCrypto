@@ -19,8 +19,8 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.example.androidcrypto.CryptoManager
 import com.example.androidcrypto.R
+import com.example.androidcrypto.utils.CryptoManager
 import java.io.File
 import java.io.FileInputStream
 import java.io.FileOutputStream
