@@ -3,4 +3,10 @@
     <string name="encrypt_string">Encrypt String</string>
     <string name="encrypt">Encrypt</string>
     <string name="decrypt">Decrypt</string>
+    <string name="basic_encryption">Switch to basic encryption</string>
+    <string name="datastore_encryption">Switch to DataStore encryption</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
 </resources>
